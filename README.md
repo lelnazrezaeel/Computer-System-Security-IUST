@@ -21,12 +21,12 @@ My solutions to IUST's Computer System Security, Spring 2023, Dr. Dianat.
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/project.png" alt="project"/> Project
 1. ElGamal Encryption Program
-Develop a program that uses the ElGamal encryption algorithm to encrypt a string of text between two entities, and then decode it. This project will help you understand the intricacies of asymmetric cryptography.
+- Develop a program that uses the ElGamal encryption algorithm to encrypt a string of text between two entities, and then decode it. This project will help you understand the intricacies of asymmetric cryptography.
 
 2. Android Application Reverse Engineering
-Reverse engineer an Android application using the Jadx tool to gain insights into its inner workings. This project provides hands-on experience in analyzing mobile app security.
+- Reverse engineer an Android application using the Jadx tool to gain insights into its inner workings. This project provides hands-on experience in analyzing mobile app security.
 
 3. OWASP Top 10 Research
-Conduct research on the OWASP (Open Web Application Security Project) Top 10 vulnerabilities and risk cases for 2021. This project will enhance your knowledge of contemporary security threats and mitigation strategies.
+- Conduct research on the OWASP (Open Web Application Security Project) Top 10 vulnerabilities and risk cases for 2021. This project will enhance your knowledge of contemporary security threats and mitigation strategies.
 
 Project File: [Link to Project](https://github.com/lelnazrezaeel/Computer-System-Security-IUST/tree/main/Project)

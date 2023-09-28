@@ -3,7 +3,7 @@ My solutions to IUST's Computer System Security, Spring 2023, Dr. Dianat.
 
 ## <img width="20" height="20" src="https://img.icons8.com/wired/64/41b883/test-passed.png" alt="test-passed"/> Exams
 - Description: This section includes quizzes from previous semesters, complete with both questions and answers.
-- [Link to Exams](https://github.com/lelnazrezaeel/Computer-System-Security-IUST/tree/main/Exams/Final)
+- [Link to Exams](https://github.com/lelnazrezaeel/Computer-System-Security-IUST/tree/main/Exams)
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Homeworks
 ### HW1
